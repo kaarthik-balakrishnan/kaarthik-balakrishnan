@@ -46,7 +46,7 @@ I’m passionate about using **data-driven approaches to understand the brain**,
 
 - 📫 Email: [balakrishnan.64@osu.edu](mailto:balakrishnan.64@osu.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaarthik-abhinav-balakrishnan/)  
-- 🧪 [Google Scholar](https://scholar.google.com/citations?user=W3QEqGsAAAAJ&hl=en&oi=ao) *(optional)*
+- 🧪 [Google Scholar](https://scholar.google.com/citations?user=W3QEqGsAAAAJ&hl=en&oi=ao)
 
 ---
 
