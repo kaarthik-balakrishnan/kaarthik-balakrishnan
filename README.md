@@ -25,6 +25,7 @@ My research focuses on understanding how internal brain states influence behavio
 - **Libraries:** NumPy, SciPy, pandas, matplotlib, seaborn  
 - **ML:** scikit-learn, TensorFlow, STAN, HMMs, GLMs  
 - **Experimentation:** Two-photon microscopy, behavioral tracking
+- **Hardware:** Light sheet microscope, Behavioral paradigms, Laser cutting, 3D printing
 
 ---
 
