@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Kaarthik Abhinav Balakrishnan
 
-I'm a PhD candidate in **Interdisciplinary Biophysics** at The Ohio State University, working at the intersection of **computational neuroscience**, **machine learning**, and **biological systems**.
+I am a curious individual. I have a PhD in **Interdisciplinary Biophysics** at The Ohio State University, working at the intersection of **computational neuroscience**, **machine learning**, and **biological systems**.
 
 My research focuses on understanding how internal brain states influence behavior—particularly thermoregulatory strategies in larval zebrafish—using **neural imaging**, **statistical modeling**, and **machine learning**.
 
