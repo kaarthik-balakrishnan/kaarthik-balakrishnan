@@ -40,7 +40,8 @@ I’m passionate about using **data-driven approaches to understand the brain**,
 - 🧾 [Model discovery to link neural activity to behavioral tasks (*eLife*, 2023)](https://doi.org/10.7554/eLife.83289)
 - 🧾 [Markov models bridge behavioral strategies and circuit principles facilitating thermoregulation (*bioRxiv*, 2025)](https://doi.org/10.1101/2025.03.17.643749)
 - 🎓 Presented at NIH BRAIN Initiative (2024), Society for Neuroscience (2022, 2024)  
-- 💡 Collaborated at the AI & Healthcare Design Lab, Tulane University (2024)
+- 💡 Participated and competed at the AI & Healthcare Design Lab, Tulane University (2024)
+- 
 ---
 
 ## 🤝 Let’s Connect
